@@ -1,0 +1,186 @@
+﻿body {
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cp {
+    width: 1000px;
+    height: 2500px;
+    border: 1px solid black;
+    margin: 0px auto;
+    background-color: blanchedalmond;
+}
+/*新菜谱*/
+
+#fbu {
+    margin: 0px auto;
+}
+
+#f1 p {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#f2 {
+    width: 660px;
+    height: 600px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0px auto;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+    #f2 li {
+        float: left;
+        padding: 15px;
+        list-style: none;
+    }
+
+        #f2 li a {
+            color: red;
+            text-decoration: none;
+            font-size: 15px;
+            margin-left: 395px;
+        }
+
+    #f2 select {
+        margin-left: 20px;
+        height: 30px;
+        width: 78px;
+    }
+
+#shux .s1 {
+    margin: 15px;
+}
+
+#shux .s2 {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+/*原材料*/
+
+#cl {
+    margin: 0px auto;
+}
+
+#c1 p {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#c2 {
+    width: 660px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+
+    #c2 p {
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+    #c2 input {
+        padding: 5px;
+        margin-left: 15px;
+    }
+/*写步骤*/
+
+#buz {
+    margin: 0px auto;
+    width: 660px;
+
+}
+
+#b1 p {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#b2 {
+    width: 660px;
+    height: 1160px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0px auto;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+    #b2 ul {
+        width: 660px;
+        height: 130px;
+    }
+
+    #b2 li {
+        list-style: none;
+        float: left;
+    }
+
+        #b2 li h1 {
+            width: 40px;
+            height: 40px;
+        }
+#b3 {
+    width: 630px;
+    height: 200px;
+    overflow: hidden;
+    margin: 5px;
+}
+
+#jiqiao {
+    margin: 15px;
+}
+
+#biaoqian {
+    margin: 15px;
+}
+
+#jiqwiao #Button1 {
+    margin: 0px auto;
+}
+.sc {
+    width:0px;
+    height:0px;
+    visibility: hidden;
+}
+#img0{
+    background-image: url("../Images/img/成品.png");
+    width: 227px;
+    height: 239px;
+    background-size:227px 239px;
+    background-repeat:no-repeat;
+    border:none;
+}
+.Ins {
+    background-image: url("../Images/img/增加.png");
+    height: 50px;
+    width: 100px;
+    background-size: 100px 50px;
+    background-repeat: no-repeat;
+    border: none;
+}
+.bz {
+    background-image: url("../Images/img/步骤.png");
+    height: 50px;
+    width: 100px;
+    background-size: 100px 50px;
+    background-repeat: no-repeat;
+    border: none;
+}
+.shan {
+    background-image: url("../Images/img/删除.png");
+    height: 50px;
+    width: 100px;
+    background-size: 100px 50px;
+    background-repeat: no-repeat;
+    border: none;
+}

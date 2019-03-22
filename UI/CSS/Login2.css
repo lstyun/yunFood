@@ -1,0 +1,235 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html body {
+    background-color: #fae8c8;
+    /*background-image: url(../Images/logo3.jpg);*/
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+#top {
+    position: absolute;
+    top: 0px;
+    margin:0px auto;
+    width: 100%;
+    height: 75px;
+}
+
+#bottom {
+    width:100%;
+    height: 160px;
+    margin: 0px auto;
+    position:fixed;
+    bottom:0px;
+}
+
+#con {
+    position: relative;
+    top: 130px;
+    width: 1000px;
+    height: 600px;
+    margin: 0px auto;
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    z-index: 999;
+}
+
+#content {
+    position: relative;
+    width: 420px;
+    height: 430px;
+    top: 76px;
+    background-color: black;
+    background-color: rgba(0,0,0,0.5);
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+#zhspan1 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+#yonghu {
+    border: 0px;
+    margin-left: 16px;
+    width: 40px;
+    height: 30px;
+    float: left;
+}
+
+#user {
+    float: left;
+    outline: none;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#yzm {
+    float: left;
+    outline: none;
+    width: 69px;
+    border:none;
+    margin:0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#phone {
+    float: left;
+    outline: none;
+    width: 110px;
+    border:none;
+    margin:0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#password {
+    float: left;
+    outline: none;
+    width: 200px;
+    border:none; 
+    margin:0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#chepassword {
+    float: left;
+    outline: none;
+    width: 200px;
+    border:none; 
+    margin:0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#zhspan2 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+#zhspan3 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+#zhspan4 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+#zhspan5 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+#zhspan6 {
+    display: block;
+    width: 300px;
+    height: 32px;
+    margin: 0px auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+#zhspan7 {
+    position: relative;
+    top: 40px;
+    display: block;
+    width: 150px;
+    height: 40px;
+    margin: 0px auto;
+    overflow: hidden;
+    text-align: center;
+    background-color: deepskyblue;
+    line-height: 40px;
+    color: white;
+    font-family: 隶书;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+input::-webkit-input-placeholder {
+    text-align: left;
+    color: white;
+    font-family: 宋体;
+}
+/*video{
+          position: absolute;
+          left:0px;
+          top:0px;
+          width: 1000px;
+          object-fit: fill;
+          height: 600px;
+          z-index: -9999;
+          //灰色调
+          -webkit-filter:grayscale(100%)
+      }*/
+#huoqu {
+    border: none;
+    margin-left: 20px;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    background: rgba(0, 0, 0, 0);
+}
+#em{
+    float: left;
+    outline: none;
+    width: 200px;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}

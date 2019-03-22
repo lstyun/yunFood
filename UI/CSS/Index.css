@@ -1,0 +1,386 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: papayawhip;
+    /*background-color:#fae8c8;*/
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+}
+
+#top {
+    margin: 0px auto;
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0,0,0,0);
+    outline: none;
+}
+/*内容页*/
+.content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#bottom {
+    height: 75px;
+    margin: 0px auto;
+}
+
+
+
+.cont {
+    /*background-color:papayawhip;*/
+    margin: 0px auto;
+    width: 1000px;
+    height: 360px;
+    background-color: rgba(0,0,0,0);
+}
+
+.video {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    zoom: 1;
+    background-color: rgba(0,0,0,0);
+    margin-top: -47px;
+}
+
+ul {
+    list-style: none;
+}
+
+.video > div {
+    float: left;
+    height: 400px;
+    margin-left: 50px;
+}
+
+    .video > div:first-child {
+        width: 5%;
+        background: black center center no-repeat;
+    }
+
+    .video > div:last-child {
+        width: 5%;
+        background: black center center no-repeat;
+    }
+
+    .video > div:nth-of-type(2) {
+        width: 90%;
+    }
+
+.video ul {
+    position: relative;
+}
+
+.video li {
+    transition: all .6s;
+    position: absolute;
+    background: url(../Images/1.jpg) center center no-repeat;
+    background-size: 100% 100%;
+}
+
+    .video li video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .video li h3 {
+        text-align: center;
+        margin-top: 2px;
+        color: #1766d7;
+    }
+
+    .video li:nth-of-type(1) video {
+        background: url(../Images/1.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .video li:nth-of-type(2) video {
+        background: url(../Images/2.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .video li:nth-of-type(3) video {
+        background: url(../Images/3.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .video li:nth-of-type(4) video {
+        background: url(../Images/4.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .video li:nth-of-type(5) video {
+        background: url(../Images/5.jpg) no-repeat;
+        background-size: cover;
+    }
+
+.video1 {
+    width: 200px;
+    height: 100px;
+    top: 143px;
+    left: 0;
+    z-index: 1;
+}
+
+.video2 {
+    width: 400px;
+    height: 200px;
+    top: 86px;
+    left: 90px;
+    z-index: 2;
+}
+
+.video3 {
+    width: 500px;
+    height: 250px;
+    top: 58px;
+    left: 197px;
+    z-index: 3;
+}
+
+.video4 {
+    width: 400px;
+    height: 200px;
+    top: 86px;
+    left: 400px;
+    z-index: 2;
+}
+
+.video5 {
+    width: 200px;
+    height: 100px;
+    top: 143px;
+    left: 700px;
+    z-index: 1;
+}
+
+#left {
+    color: white;
+    z-index: 0;
+    position: absolute;
+    top: 283px;
+    left: 255px;
+    font-size: 60px;
+    margin: 0px auto;
+    width: 50px;
+    height: 50px;
+    line-height: 60px;
+    background-color: black;
+    text-align: center;
+}
+
+#right {
+    color: white;
+    z-index: 0;
+    position: absolute;
+    top: 283px;
+    right: 266px;
+    margin-top: 20px;
+    font-size: 60px;
+    margin: 0px auto;
+    background-color: black;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    font-size: 60px;
+}
+
+/*三部分*/
+#caipu {
+    width: 1000px;
+    height: 500px;
+    margin: 0px auto;
+}
+
+    #caipu h3 {
+        padding-left: 420px;
+    }
+
+    #caipu dl {
+        float: left;
+        width: 248px;
+        margin-bottom: 30px;
+    }
+
+        #caipu dl ul li {
+            list-style: none;
+            border: 1px solid black;
+            height: 50px;
+            width: 50px;
+            float: left;
+            margin-left: 24px;
+            padding-top: 24px;
+            text-align: center;
+        }
+
+#zhuda {
+    position: relative;
+    margin: 0px auto;
+    width: 1000px;
+    height: 430px;
+    border: 1px solid white;
+}
+
+#yidong {
+    position: relative;
+    top: 85px;
+}
+
+#jinrezuda {
+    position: relative;
+    top: 35px;
+    left: 50px;
+    width: 200px;
+    margin: 0px auto;
+    display: block;
+    font-size: 30px;
+    color: black;
+    font-family: 隶书;
+    font-weight: bold;
+}
+
+.zr {
+    height: 200px;
+    width: 180px;
+    border: 1px solid black;
+    float: left;
+    line-height: 100px;
+}
+
+#zr1 {
+    position: relative;
+    left: 55px;
+}
+
+#zr2 {
+    position: relative;
+    left: 110px;
+}
+
+#zr3 {
+    position: relative;
+    left: 165px;
+}
+
+#zr4 {
+    position: relative;
+    left: 215px;
+}
+
+#zr5 {
+    position: relative;
+    top: 220px;
+    left: -665px;
+}
+
+#zr6 {
+    position: relative;
+    top: 19px;
+    left: 290px;
+}
+
+#zr7 {
+    position: relative;
+    top: 19px;
+    left: 345px;
+}
+
+#zr8 {
+    position: relative;
+    top: 19px;
+    left: 395px;
+}
+
+#zr11 {
+    position: relative;
+    overflow: hidden;
+    left: -4px;
+    top: -21px;
+}
+
+#remen {
+    position: relative;
+    margin: 0px auto;
+    width: 1000px;
+    height: 430px;
+}
+
+#shu1, #shu {
+    position: relative;
+    color: red;
+    font-size: 37px;
+    font-weight: 900;
+    left: 35px;
+    top: 10px;
+}
+
+#sp, #remenhd {
+    position: relative;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    top: -28px;
+    left: 67px;
+}
+
+#zhenzaijinxin {
+    position: relative;
+    color: black;
+    font-size: 18px;
+    top: -54px;
+    left: 184px;
+}
+
+#cqhd {
+    position: relative;
+    color: black;
+    font-size: 18px;
+    top: -79px;
+    left: 281px;
+}
+
+a {
+    text-decoration: none;
+    color: #269ABC;
+}
+
+#hd1 {
+    position: relative;
+    top: -32px;
+    height: 280px;
+    width: 1000px;
+}
+
+.img {
+    width: 180px;
+    height: 180px;
+}
+
+p {
+    position: relative;
+    font-size: 17px;
+    font-family: 微软雅黑;
+    left: 18px;
+    top: 8px;
+}
+
+.changqi {
+    position: relative;
+    color: #269ABC;
+    display: block;
+    top: 21px;
+    left: 8px;
+}
+
+.cq {
+    display: block;
+    width: 180px;
+    height: 260px;
+    float: left;
+    margin-left: 50px;
+    background-color: white;
+}

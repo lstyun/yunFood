@@ -1,0 +1,9 @@
+F:\美食网\DAL\bin\Debug\DAL.dll
+F:\美食网\DAL\bin\Debug\DAL.pdb
+F:\美食网\DAL\bin\Debug\Model.dll
+F:\美食网\DAL\bin\Debug\Model.pdb
+F:\美食网\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\美食网\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\美食网\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\美食网\DAL\obj\Debug\DAL.dll
+F:\美食网\DAL\obj\Debug\DAL.pdb

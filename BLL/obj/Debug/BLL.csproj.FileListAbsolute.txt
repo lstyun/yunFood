@@ -1,0 +1,11 @@
+F:\美食网\BLL\bin\Debug\BLL.dll
+F:\美食网\BLL\bin\Debug\BLL.pdb
+F:\美食网\BLL\bin\Debug\DAL.dll
+F:\美食网\BLL\bin\Debug\Model.dll
+F:\美食网\BLL\bin\Debug\DAL.pdb
+F:\美食网\BLL\bin\Debug\Model.pdb
+F:\美食网\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\美食网\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\美食网\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\美食网\BLL\obj\Debug\BLL.dll
+F:\美食网\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,87 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #fae8c8;
+    /*background-image: url(../Images/logo3.jpg);*/
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#top {
+    margin: 0px auto;
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0,0,0,0);
+    outline: none;
+}
+
+#bottom {
+    width: 1000px;
+    height: 75px;
+    margin: 0px auto;
+    margin-top: 5%;
+}
+#zon {
+    width:1000px;
+    height:1000px;
+    margin-left:24%;
+    margin-top:3%;
+}
+#zuo {
+    float: left;
+    width: 200px;
+    margin-top:7%;
+    margin-left: 11%;
+}
+.sp {
+    width:200px;
+    height:265px;
+    background-color:white;
+    float:left;
+    margin-left:6%;
+    margin-right:6%;
+    margin-top:45px;
+}
+#tu {
+    width: 200px;
+    height:180px;
+    border:none;
+}
+.ming {
+    display: block;
+    font-family: 仿宋;
+    font-size: 16px;
+    color: black;
+    margin-left: 27px;
+    margin-top: 19px;
+    float: left;
+    border: none;
+    background-color:transparent;
+}
+.pin {
+    float: left;
+    color: #808080;
+    font-family: 仿宋;
+    font-size: 14px;
+    margin-top:19px;
+    margin-left:10px;
+}
+.ren {
+    float: left;
+    color: #808080;
+    font-family: 仿宋;
+    font-size: 14px;
+    margin-top: 19px;
+    margin-left: 10px;
+}
+.leixin {
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    /*border: 1px solid white;*/
+    color:black;
+    font-family:微软雅黑;
+    font-size:19px;
+}
